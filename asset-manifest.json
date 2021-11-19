@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.770b9d26.chunk.css",
+    "main.js": "/static/js/main.e0436b8f.chunk.js",
+    "main.js.map": "/static/js/main.e0436b8f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20146964.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20146964.js.map",
+    "static/js/2.a0d8f683.chunk.js": "/static/js/2.a0d8f683.chunk.js",
+    "static/js/2.a0d8f683.chunk.js.map": "/static/js/2.a0d8f683.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.770b9d26.chunk.css.map": "/static/css/main.770b9d26.chunk.css.map",
+    "static/js/2.a0d8f683.chunk.js.LICENSE.txt": "/static/js/2.a0d8f683.chunk.js.LICENSE.txt",
+    "static/media/anslider.29018d6e.mp4": "/static/media/anslider.29018d6e.mp4",
+    "static/media/index.css": "/static/media/bg2.96c6027d.jpg",
+    "static/media/kids.17d95615.png": "/static/media/kids.17d95615.png",
+    "static/media/mobile.063578d5.jpg": "/static/media/mobile.063578d5.jpg",
+    "static/media/mslider.90f46816.mp4": "/static/media/mslider.90f46816.mp4",
+    "static/media/netflixtv.9f583f89.jpg": "/static/media/netflixtv.9f583f89.jpg",
+    "static/media/trailer.9720428d.mp4": "/static/media/trailer.9720428d.mp4",
+    "static/media/wach.f7a4b369.jpg": "/static/media/wach.f7a4b369.jpg",
+    "static/media/wslider.4a3cc1b6.mp4": "/static/media/wslider.4a3cc1b6.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20146964.js",
+    "static/js/2.a0d8f683.chunk.js",
+    "static/css/main.770b9d26.chunk.css",
+    "static/js/main.e0436b8f.chunk.js"
+  ]
+}
